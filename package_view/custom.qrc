@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tree/back.png</file>
+        <file>tree/branch-closed.png</file>
+        <file>tree/branch-open.png</file>
+        <file>tree/vline.png</file>
+        <file>tree/branch-end.png</file>
+        <file>tree/branch-more.png</file>
+        <file>tree/folder.png</file>
+
+
+		<file>icons/hiresfile.png</file>        
+        <file>icons/addnode.png</file>        
+        <file>icons/deletenode.png</file>     
+        <file>icons/savetree.png</file>
+        <file>icons/opentree.png</file>
+        <file>icons/edittree.png</file>
+        <file>icons/cleartree.png</file>
+        <file>icons/viewfile.png</file>      
+    </qresource>
+</RCC>
