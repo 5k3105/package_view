@@ -10,4 +10,5 @@ generates ```widgets.pkg``` and can be opened with:
 
   ```package_view widgets```
 
+<a href="https://github.com/5k3105/package_view/blob/master/pkg_widgets.png?raw=true"><img src="https://github.com/5k3105/package_view/blob/master/pkg_widgets.png?raw=true"></a>
 
